@@ -1,0 +1,130 @@
+.petunjuk{
+    width: 24%; 
+    height: 500px; 
+    border: 10px; 
+    background-color: darkblue;
+    margin-top: 5px;
+    border-color: #fbd713;
+    border-radius: 10px;
+    margin-left: 5px;
+    position: absolute;
+    color: #fff;
+    font-size: 18pt;
+    font-family: Adobe Gothic Std B;
+    display: block;
+}
+.p_content{
+    height:70%; 
+    width:98%; 
+    margin-top:10%;
+    margin-left:1%; 
+    border-radius:10px; 
+    background-color:#fbfbe5;
+    position: absolute;
+    font-size: 15pt;
+    font-family: Bahnscrift;
+}
+.content1{
+    height: 96%;
+    width: 96%;
+    margin-top: 2%;
+    margin-left: 2%;
+    color: #000;
+    overflow-y: auto;
+}
+.petunjuk1{
+    width: 24%; 
+    height: 500px; 
+    border: 10px; 
+    background-color: darkblue;
+    margin-top: 5px;
+    border-color: #fbd713;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 510px;
+    position: absolute;
+    color: #fff;
+    font-size: 18pt;
+    font-family: Adobe Gothic Std B;
+    display: block;
+}
+.p_content1{
+    height:70%; 
+    width:98%; 
+    margin-top:10%;
+    margin-left:1%; 
+    border-radius:10px; 
+    background-color:#fbfbe5;
+    position: absolute;
+    font-size: 15pt;
+    font-family: Bahnscrift;
+}
+.content2{
+    height: 96%;
+    width: 96%;
+    margin-top: 2%;
+    margin-left: 2%;
+    color: #000;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.petunjuk2{
+    width: 24%; 
+    height: 500px; 
+    border: 10px; 
+    background-color: darkblue;
+    margin-top: 5px;
+    border-color: #fbd713;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 1020px;
+    position: absolute;
+    color: #fff;
+    font-size: 13pt;
+    font-family: Adobe Gothic Std B;
+    display: block;
+}
+.p_content2{
+    height:35%; 
+    width:98%; 
+    margin-top:3%;
+    margin-left:1%; 
+    border-radius:10px; 
+    background-color:#fbfbe5;
+    position: absolute;
+    font-size: 15pt;
+    font-family: Bahnscrift;
+}
+.content3{
+    height: 96%;
+    width: 96%;
+    margin-top: 2%;
+    margin-left: 2%;
+    color: #000;
+    overflow-y: auto;
+}
+.p_content3{
+    height:35%; 
+    width:98%; 
+    margin-top:5%;
+    margin-left:1%; 
+    border-radius:10px; 
+    background-color:#fbfbe5;
+    position: absolute;
+    font-size: 15pt;
+    font-family: Bahnscrift;
+}
+.content4{
+    height: 96%;
+    width: 96%;
+    margin-top: 1%;
+    margin-left: 2%;
+    color: #000;
+    overflow-y: auto;
+}
+.main{
+    margin-left: 500px;
+}
+.title{
+    margin-top: 220px;
+}
